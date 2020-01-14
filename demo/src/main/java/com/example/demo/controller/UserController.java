@@ -17,4 +17,7 @@ public class UserController {
         user.setId(id);
         return user;
     }
+    public void t2(){
+        //服务器更新
+    }
 }
