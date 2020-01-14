@@ -15,6 +15,7 @@ public class UserController {
     public User t1(@PathVariable("id")Integer id){
         User user = new User();
         user.setId(id);
+        System.out.println(user+"this is local dev");
         return user;
     }
     public void t2(){
