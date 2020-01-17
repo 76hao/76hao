@@ -76,7 +76,7 @@
                     <dockerHost>http://192.168.88.129:2375</dockerHost>
                 </configuration>
             </plugin>
-        </plugins>
+       
         </plugins>
     </build>
 
